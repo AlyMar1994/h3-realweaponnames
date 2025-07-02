@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.3.0",
 	"id": "am1994.realweaponnames",
 	"name": "Aly's Realistic Weapon Names",
 	"description": "Tired of the Dollar Store(TM)-styled weapon naming?  Damn Lockheed Martin(R) and the rest for demanding extortionist fees to use their weapon titles and classifications in video games; this mod changes most weapon names to their closest IRL counterpart.",
@@ -292,6 +292,7 @@
 				"372752044": "Ornamental IWI Tavor",
 				"391480495": "ICA Walther PPQ",
 				"508273131": "Ornamental Walther WA 2000, Supp., Ext. Scope",
+				"546170036": "MAC M-10, Supp., 'Tactical'",
 				"784179770": "Red Pneu-Dart X-2 Projector (Tranq. Sedative)",
 				"923417469": "Silver Ruger Standard Mk. II 'Amphibian II'",
 				"976265004": "Le Chiffre's Walther PPQ, Supp.",
@@ -313,6 +314,7 @@
 				"2191608370": "Graffiti Mossberg Maverick 88",
 				"2434870416": "AMT 1911 'Graffitiballer'",
 				"2495675980": "Ancestral Ruger Standard Mk. II 'Amphibian'",
+				"2780546845": "Tan MAC M-10, 'Tactical'",
 				"2887890094": "MAC M-10",
 				"2923541503": "ICA Walther PPQ, Supp.",
 				"2933223810": "Scrapyard MAC M-10, Supp.",
@@ -320,6 +322,7 @@
 				"3113978184": "Beretta 8000F, Supp.",
 				"3197154476": "H&K G36 Compact",
 				"3201567076": "ICA Mossberg 590A1",
+				"3255803310": "Scrapyard MAC M-10",
 				"3351602240": "AMT 1911 'Blueballer'",
 				"3386837480": "Gluttonous Remington Model 870",
 				"3459315680": "Disposable MAC M-10",
@@ -332,10 +335,7 @@
 				"3938717844": "Golden IMI UZI, Supp.",
 				"4049702267": "Black Ruger Standard Mk. IV 22/45 Lite",
 				"4272019489": "Taurus Curve, 'Tactical'",
-				"4287068859": "AMT 1911 'II: Lifeballer'",
-				"2780546845": "Tan MAC M-10, 'Tactical'",
-				"3255803310": "Scrapyard MAC M-10",
-				"546170036": "MAC M-10, Supp., 'Tactical'"
+				"4287068859": "AMT 1911 'II: Lifeballer'"
 			},
 			"french": {},
 			"german": {},
@@ -388,6 +388,7 @@
 				"2998331766": "AMT 1911 'Black Lily'",
 				"3076046244": "Camo. Magpul FMG-9, Supp.",
 				"3180117512": "KelTec KSG, Fast-Fire",
+				"3287482919": "AMT 1911 'Floralballer'",
 				"3477630584": "Magpul FMG-9, Supp.",
 				"3502967659": "KelTec KSG",
 				"3540904202": "Ruger Standard Mk. II 'Amphibian'",
@@ -399,8 +400,7 @@
 				"4120886973": "AMT 1911 'Goldballer'",
 				"4173158941": "Beretta 8000F Inox",
 				"4209977982": "Magpul FMG-9 (2018)",
-				"4277048295": "Tan Walther WA 2000, 'Tactical'",
-				"3287482919": "AMT 1911 'Floralballer'"
+				"4277048295": "Tan Walther WA 2000, 'Tactical'"
 			},
 			"french": {},
 			"german": {},
@@ -437,5 +437,6 @@
 			"chineseTraditional": {},
 			"chineseSimplified": {}
 		}
-	}
+	},
+	"updateCheck": "https://github.com/AlyMar1994/h3-realweaponnames/releases/latest/download/updates.json"
 }

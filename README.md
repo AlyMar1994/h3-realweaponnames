@@ -6,4 +6,4 @@ Tired of the Dollar Store(TM)-styled weapon naming? Damn Lockheed Martin(R) and 
 
 ---
 
-`am1994.realweaponnames` v0.3.0, by AlyMar1994, Various Editors: Hitman Wiki, and Internet Movie Firearms Database. This README was automatically generated from the mod's manifest.
+`am1994.realweaponnames` v1.0.0, by AlyMar1994, Various Editors: Hitman Wiki, and Internet Movie Firearms Database. This README was automatically generated from the mod's manifest.

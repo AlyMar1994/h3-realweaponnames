@@ -44,6 +44,20 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Le Chiffre's 'Ball-Buster'",
+						"1756357876": "Let the world know that a strange Albanian man died scratching your balls. All you need to know is that this rope is sturdier than the Dow Jones."
+					},
+					"french": {},
+					"german": {},
+					"italian": {},
+					"japanese": {},
+					"russian": {},
+					"spanish": {},
+					"chineseTraditional": {},
+					"chineseSimplified": {}
+				},
 				"00985A1100E5EDDC": {
 					"english": {
 						"946252704": "47's Absolution Suit",
@@ -262,7 +276,7 @@
 		"0024A5A15AC9CC2F": {
 			"english": {
 				"546260946": "Colt M4A1, Rail-Gripped",
-				"2114703880": "Black Mossberg Maverick 88, Ext. Mags.",
+				"2114703880": "Black Mossberg Maverick 88",
 				"2232117619": "IWI Tavor",
 				"2452160313": "H&K UMP45",
 				"2889860233": "AMT 1911 'Blackballer'",
@@ -283,15 +297,29 @@
 			"chineseTraditional": {},
 			"chineseSimplified": {}
 		},
+		"00288FE4ECA3C1FD": {
+			"english": {
+				"666883477": "ICA Kalashnikov (SVD) Dragunov, Telescopic, Supp.",
+				"1094810605": "White ICA Kalashnikov (SVD) Dragunov, Telescopic, Supp."
+			},
+			"french": {},
+			"german": {},
+			"italian": {},
+			"japanese": {},
+			"russian": {},
+			"spanish": {},
+			"chineseTraditional": {},
+			"chineseSimplified": {}
+		},
 		"006986A5A3F98191": {
 			"english": {
-				"80972231": "Taurus Curve, Disposable",
+				"80972231": "Scrapyard Taurus Curve",
 				"114220078": "Ornamental Magpul FMG-9",
 				"230765855": "Ancestral Remington Model 870 Fieldmaster",
 				"268002322": "Militia H&K UMP45",
 				"372752044": "Ornamental IWI Tavor",
 				"391480495": "ICA Walther PPQ",
-				"508273131": "Ornamental Walther WA 2000, Supp., Ext. Scope",
+				"508273131": "Ornamental Walther WA 2000, Telescopic (4x), Supp.",
 				"546170036": "MAC M-10, Supp., 'Tactical'",
 				"784179770": "Red Pneu-Dart X-2 Projector (Tranq. Sedative)",
 				"923417469": "Silver Ruger Standard Mk. II 'Amphibian II'",
@@ -305,7 +333,8 @@
 				"1451051270": "Ort-Meyer's 'Taunton' (Tranq. Sedative)",
 				"1575404294": "Kalashnikov RPK",
 				"1667086812": "Graffiti Colt M4A1",
-				"1667375680": "ICA Mossberg 590A1, Supp.",
+				"1667375680": "White ICA Mossberg 590A1, Supp.",
+				"4275385097": "Black ICA Mossberg 590A1, Supp.",
 				"1918767992": "Graffiti H&K MP5A3",
 				"1967478934": "Ancestral Fountain Pen",
 				"2000387264": "Scrapyard Remington Model 870 Fieldmaster",
@@ -315,7 +344,6 @@
 				"2434870416": "AMT 1911 'Graffitiballer'",
 				"2495675980": "Ancestral Ruger Standard Mk. II 'Amphibian'",
 				"2780546845": "Tan MAC M-10, 'Tactical'",
-				"2887890094": "MAC M-10",
 				"2923541503": "ICA Walther PPQ, Supp.",
 				"2933223810": "Scrapyard MAC M-10, Supp.",
 				"2999686978": "Graffiti Walther WA 2000",
@@ -328,14 +356,23 @@
 				"3459315680": "Disposable MAC M-10",
 				"3489036676": "Ancestral Remington Model 700",
 				"3491623950": "Ornamental KelTec KSG",
-				"3683877364": "MAC M-10, Supp.",
 				"3810201275": "Ancestral Kalashnikov (AK) 47",
 				"3819572738": "AMT 1911 'Woodballer'",
 				"3844964668": "Scrapyard Kalashnikov (AK) 9, Supp.",
 				"3938717844": "Golden IMI UZI, Supp.",
 				"4049702267": "Black Ruger Standard Mk. IV 22/45 Lite",
 				"4272019489": "Taurus Curve, 'Tactical'",
-				"4287068859": "AMT 1911 'II: Lifeballer'"
+				"4287068859": "AMT 1911 'II: Lifeballer'",
+				"3732565858": "Remington Model 700",
+				"2066805963": "ICA M24 SWS, Piercing, Telescopic (3x), Supp.",
+				"2385804155": "Kalashnikov (SVD) Dragunov, Piercing",
+				"1998520630": "Barrett XM500, Piercing, Telescopic (4x), Supp.",
+				"585698583": "'Ducky' AMT 1911 Hardballer, F/A, Supp.",
+				"159915413": "'Ducky' Barrett XM500, Piercing, Telescopic (4x), Supp.",
+				"4068131803": "KRISS Vector CRB",
+				"2253322208": "ICA KRISS Vector CRB, Supp.",
+				"3771949140": "Providence KRISS Vector CRB, Supp.",
+				"1608846863": "Scrapyard Kalashnikov (SVD) Dragunov"
 			},
 			"french": {},
 			"german": {},
@@ -360,7 +397,7 @@
 				"1094229384": "H&K VP9SK, Supp.",
 				"1313064352": "AMT AutoMag V",
 				"1357396197": "Kalashnikov (AK) 47",
-				"1572390754": "Black Barrett MRAD, Supp., Piercing",
+				"1572390754": "Black Barrett MRAD, Piercing, Supp.",
 				"1614812543": "H&K VP9",
 				"1643809503": "Desert IWI Tavor, Supp.",
 				"1823962092": "Colt M4A1",
@@ -369,17 +406,17 @@
 				"1960679109": "H&K MP5A3, Supp.",
 				"2012548424": "KelTec KSG, Supp.",
 				"2152331148": "Colt M4A1",
-				"2243271899": "Walther PPQ, Supp., Ext. Mags.",
-				"2310297646": "Barrett MRAD, Piercing",
-				"2327460968": "Golden AMT AutoMag V, 'El Matador'",
+				"2243271899": "Walther PPQ, Ext. Mags., Supp.",
+				"2310297646": "Barrett MRAD, Piercing, Telescopic (2x)",
+				"2327460968": "Golden AMT AutoMag V",
 				"2367086561": "KelTec KSG, Supp. (2018)",
 				"2467944817": "Beretta 8000F, 'Ice'",
 				"2535800760": "Beretta 93R, 'Auto 9'",
-				"2551853015": "Black Mossberg Maverick 88, F/A, Ext. Mags.",
+				"2551853015": "Black Mossberg Maverick 88, Ext. Mags.",
 				"2556606083": "Walther WA 2000",
 				"2714907880": "Camo. Barrett MRAD, Supp.",
 				"2755084931": "Walther PPQ (2018)",
-				"2793243116": "Black Walther WA 2000, Ext. Scope",
+				"2793243116": "Black Walther WA 2000, Telescopic",
 				"2817237065": "Colt M4A1, Stockless",
 				"2839309394": "AMT 1911 Hardballer, F/A, Supp.",
 				"2842526616": "IWI Tavor (2018)",
@@ -400,7 +437,10 @@
 				"4120886973": "AMT 1911 'Goldballer'",
 				"4173158941": "Beretta 8000F Inox",
 				"4209977982": "Magpul FMG-9 (2018)",
-				"4277048295": "Tan Walther WA 2000, 'Tactical'"
+				"4277048295": "Tan Walther WA 2000, 'Tactical'",
+				"473826755": "Kalashnikov (SVD) Dragunov",
+				"2887890094": "MAC M-10",
+				"3683877364": "MAC M-10, Supp."
 			},
 			"french": {},
 			"german": {},
@@ -413,7 +453,9 @@
 		},
 		"008322D98E1CFE04": {
 			"english": {
-				"4200240817": "Ornamental Katana"
+				"4200240817": "Ornamental Katana",
+				"4002418298": "Collector's Pneu-Dart X-2 Projector (Tranq. Sedative)",
+				"3487649443": "Collector's Pneu-Dart X-2 Projector (Tranq. Emetic)"
 			},
 			"french": {},
 			"german": {},
